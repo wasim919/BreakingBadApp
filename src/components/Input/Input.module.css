@@ -1,0 +1,7 @@
+.appInput {
+  display: flex;
+  flex: row wrap;
+  justify-content: center;
+  width: 60%;
+  height: 40%;
+}
